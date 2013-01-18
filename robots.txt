@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://jamesjh7.github.com/xpenser-test/sitemap.xml 
